@@ -2,7 +2,7 @@ name: Software Engineering Docker
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
 
 jobs:
 
